@@ -3,7 +3,10 @@
 <a href="https://www.linkedin.com/in/lucas-laino90/">
   <img alt="Lukeal90's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" 
 </a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lainolucas90@gmail.com)](mailto:lainolucas90@gmail.com)
+  
+<a href="mailto:lainolucas90@gamil.com">
+  <img src="https://img.shields.io/badge/-lainolucas90@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 
 
