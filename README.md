@@ -1,3 +1,6 @@
+![lukeal90](https://i.imgur.com/fqtyp7C.png "lukeal90")
+
+
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/lucas-laino90/">
