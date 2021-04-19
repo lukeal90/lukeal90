@@ -4,8 +4,8 @@
   <img alt="Lukeal90's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" 
 </a>
   
-<a href="mailto:lainolucas90@gamil.com">
-  <img src="https://img.shields.io/badge/-lainolucas90@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:lainolucas90@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
 
