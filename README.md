@@ -1,5 +1,5 @@
 ![lukeal90](https://i.imgur.com/fqtyp7C.png "lukeal90")
-<img src="https://i.imgur.com/fqtyp7C.png alt="html5" width="100%" height="30"/>
+<img src="https://i.imgur.com/fqtyp7C.png  width="100" height="30"/>
 
 ### Hi there 👋
 
