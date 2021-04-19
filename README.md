@@ -1,4 +1,4 @@
-![lukeal90](https://i.imgur.com/qdVyLHvb.png "lukeal90")
+![lukeal90](https://i.imgur.com/PGLvn5P.jpg "lukeal90")
 
 ### Hi there 👋
 
