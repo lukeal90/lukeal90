@@ -1,10 +1,5 @@
 ![lukeal90](https://i.imgur.com/PGLvn5P.jpg "lukeal90")
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Lucas, a full-time back end developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
