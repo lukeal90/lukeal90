@@ -1,4 +1,4 @@
-<a href="https://im.ge/i/FqDP2W"><img src="https://i.im.ge/2022/07/22/FqDP2W.png" alt="FqDP2W.png" border="0"></a>
+<a href="https://im.ge/i/FqDP2W"><img src="https://i.im.ge/2022/07/22/FqDP2W.png" alt="FqDP2W.png" border="0" width="100%"></a>
 ### <div align="center">I'm Lucas, a full-time back end developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
