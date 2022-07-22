@@ -1,4 +1,4 @@
-![lukeal90](https://imgur.com/a/J9uUiqw.png "lukeal90")
+![lukeal90](https://im.ge/i/FqDr1z "lukeal90")
 
 ### <div align="center">I'm Lucas, a full-time back end developer 👨‍💻 working remotely since 2020 🚀</div>  
   
