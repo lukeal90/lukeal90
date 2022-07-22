@@ -1,4 +1,3 @@
-![lukeal90]
 <a href="https://im.ge/i/FqDr1z"><img src="https://i.im.ge/2022/07/22/FqDr1z.png" alt="FqDr1z.png" border="0"></a>
 ### <div align="center">I'm Lucas, a full-time back end developer 👨‍💻 working remotely since 2020 🚀</div>  
   
