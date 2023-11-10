@@ -4,8 +4,6 @@
 - 👨‍💻 I’m currently working on TELECOM   
   
 
-- 🌱 I’m currently learning Fastify Js and Nest js  
-  
 
 - 🎮 I really enjoy playing video games
   
